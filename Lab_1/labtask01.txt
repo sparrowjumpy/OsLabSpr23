@@ -1,0 +1,23 @@
+Script started on 2023-01-27 09:47:48+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="45"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd Downloads[K[K[K[K[K[K[K[Kesktop
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd ..
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ grep [K[K[K[K[Ktouch lab01.txt
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ps
+    PID TTY          TIME CMD
+  14856 pts/1    00:00:00 bash
+  14917 pts/1    00:00:00 ps
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ grep [K[K[K[K[Kcd [K[K[Kpwd
+/home/student
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ echp[Ko "zain k21-3573"
+zain k21-3573
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ zip lab01.txt
+	zip warning: missing end signature--probably not a zip file (did you
+	zip warning: remember to use binary mode when you transferred it?)
+	zip warning: (if you are trying to read a damaged archive try -F)
+
+zip error: Zip file structure invalid (lab01.txt)
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ hostname
+student-OptiPlex-7090
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+
+Script done on 2023-01-27 09:50:58+05:00 [COMMAND_EXIT_CODE="0"]
