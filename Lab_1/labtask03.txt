@@ -1,0 +1,46 @@
+.
+├── 21
+├── abtask03.txt
+├── Desktop
+│   ├── cat
+│   │   ├── 26
+│   │   ├── f1.txt
+│   │   ├── task1
+│   │   ├── task1.txt
+│   │   ├── task2.txt
+│   │   ├── task3
+│   │   ├── task3.txt
+│   │   └── task.txt
+│   ├── OSlab
+│   │   └── mubashir
+│   │       └── abubaker
+│   │           └── oslab3
+│   ├── oslab k213277.png
+│   ├── oslabk213277.png
+│   ├── OSLAB K213277.png
+│   └── oslab Q2.png
+├── Documents
+├── Downloads
+│   ├── devcpp-4.9.9.2_setup.exe
+│   └── Send Anywhere (2023-01-27 08-23-18).zip
+├── lab01.txt
+├── lab1.txt
+├── labtask01.txt
+├── labtask02.txt
+├── labtask03.txt
+├── labtask04.log
+├── labtask05.txt
+├── Music
+├── Pictures
+│   └── task1.png
+├── Public
+├── snap
+│   └── snap-store
+│       ├── 599
+│       ├── 638
+│       ├── common
+│       └── current -> 638
+├── Templates
+└── Videos
+
+19 directories, 24 files
