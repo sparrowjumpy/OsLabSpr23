@@ -1,0 +1,12 @@
+Script started on 2023-02-01 08:59:07+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;student@lab4l-20: ~[01;32mstudent@lab4l-20[00m:[01;34m~[00m$ sudo userdd [K[K[Kadd user_1
+[sudo] password for student: 
+]0;student@lab4l-20: ~[01;32mstudent@lab4l-20[00m:[01;34m~[00m$ sudo useradd user_2
+]0;student@lab4l-20: ~[01;32mstudent@lab4l-20[00m:[01;34m~[00m$ su user_1
+Password: 
+su: Authentication failure
+]0;student@lab4l-20: ~[01;32mstudent@lab4l-20[00m:[01;34m~[00m$ sudo su user_1
+$ 
+]0;student@lab4l-20: ~[01;32mstudent@lab4l-20[00m:[01;34m~[00m$ exit
+
+Script done on 2023-02-01 09:00:18+05:00 [COMMAND_EXIT_CODE="0"]
