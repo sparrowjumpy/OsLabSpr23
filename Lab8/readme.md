@@ -1,2 +1,3 @@
+This code is an implementation of merge sort using pthreads in C. Merge sort is a sorting algorithm that uses the divide and conquer technique to sort an array of elements in ascending or descending order. The code prompts the user to enter the size of the array and the array elements, creates threads to recursively sort the array using merge sort, and then merges the sorted subarrays to produce the final sorted array. The use of pthreads allows the sorting to be performed in parallel, potentially improving the performance of the algorithm on multi-core systems.
 
 ![rr](https://user-images.githubusercontent.com/123714510/235831678-60841e6a-e3a4-457a-85fb-63e1809078c9.PNG)
