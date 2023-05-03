@@ -1,4 +1,5 @@
 **SUMMARY**
+
 1- The first step is to generate a log file of the shell/terminal session using the "script" command. This will record all the commands entered and their output during the session. Then, the user is instructed to try out 7 basic Linux commands and save the log file to GitHub.
 
 2- The user is then asked to learn how to use the "apt" package manager in Ubuntu and install the "tree" package using the sudo and apt commands.
